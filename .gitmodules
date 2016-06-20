@@ -4,3 +4,9 @@
 [submodule "tcomment_vim"]
 	path = tcomment_vim
 	url = https://github.com/tomtom/tcomment_vim.git
+[submodule "vim-autoformat"]
+	path = vim-airline
+	url = https://github.com/Chiel92/vim-autoformat.git
+[submodule "ultisnips"]
+	path = ultisnips
+	url = https://github.com/SirVer/ultisnips.git
